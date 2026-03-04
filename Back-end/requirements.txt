@@ -1,0 +1,11 @@
+Flask
+Flask-Cors
+ollama
+python-dotenv
+gTTS
+firebase-admin
+apispec[yaml]
+apispec-webframeworks
+flask-swagger-ui
+SpeechRecognition
+pydub
