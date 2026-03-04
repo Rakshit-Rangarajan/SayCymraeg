@@ -1,7 +1,10 @@
-# SayCymraeg 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+<div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,100:A32ACB&text=SayCymraeg&section=header&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=scaleIn&stroke=000000&strokeWidth=2" alt="# SayCymraeg 🏴󠁧󠁢󠁷󠁬󠁳󠁿" />
+</div>
 
-**Author:** Rakshit Rangarajan
-
+<div align="right">
+<b>Author:</b> Rakshit Rangarajan
+</div>
 ---
 
 ## 📖 Overview
@@ -23,11 +26,27 @@ SayCymraeg is an interactive and gamified web application designed to help users
 
 ## 🛠️ Technology Stack
 
-* **Frontend:** Next.js 14, React 19, TypeScript, Tailwind CSS, Radix UI
-* **Backend (API):** Python, Flask, Flask-CORS
-* **AI & Machine Learning:** Ollama (for Llama 3.1), gTTS, SpeechRecognition, pydub
-* **Database & Auth:** Firebase (Firestore, Authentication, Storage)
-* **API Documentation:** Swagger UI
+* **Frontend:** <br>
+      <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js 14" /></a>
+      <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React 19" /></a>
+      <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+      <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+      <a href="https://www.radix-ui.com/"><img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" /></a>
+* **Backend (API):** <br>
+      <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+      <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
+      <a href="https://flask-cors.readthedocs.io/"><img src="https://img.shields.io/badge/Flask--CORS-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask-CORS" /></a>
+* **AI & Machine Learning:** <br>
+      <a href="https://ollama.com/"><img src="https://img.shields.io/badge/Ollama_(Llama_3.1)-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" /></a>
+      <a href="https://gtts.readthedocs.io/"><img src="https://img.shields.io/badge/gTTS-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="gTTS" /></a>
+      <a href="https://pypi.org/project/SpeechRecognition/"><img src="https://img.shields.io/badge/SpeechRecognition-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="SpeechRecognition" /></a>
+      <a href="https://github.com/jiaaro/pydub"><img src="https://img.shields.io/badge/pydub-CC292B?style=for-the-badge&logo=python&logoColor=white" alt="pydub" /></a>
+* **Database & Auth:** <br>
+      <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
+      <a href="https://firebase.google.com/docs/firestore"><img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore" /></a>
+      <a href="https://firebase.google.com/docs/auth"><img src="https://img.shields.io/badge/Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Authentication" /></a>
+* **API Documentation:** <br>
+      <a href="https://swagger.io/tools/swagger-ui/"><img src="https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger UI" /></a>
 
 ---
 
