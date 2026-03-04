@@ -5,7 +5,8 @@
 <div align="right">
 <b>Author:</b> Rakshit Rangarajan
 </div>
----
+
+<hr>
 
 ## 📖 Overview
 
@@ -150,6 +151,8 @@ SayCymraeg/
 
 ---
 
-## 📧 Contact
-
-Rakshit Rangarajan - [EMAIL](mailto:rakshitr2000@gmail.com)
+<div align="center">
+  <a href="https://linkedin.com/in/rakshit-rangarajan-2084b2211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:rakshitr2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.rakshitr.co.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Website" /></a>
+</div>
