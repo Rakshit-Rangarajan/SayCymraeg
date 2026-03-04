@@ -148,9 +148,59 @@ SayCymraeg/
 │   └── venv/
 └── README.md
 ```
+## 🖼️ Gallery
 
----
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img width="400" alt="Sign-in" src="https://github.com/user-attachments/assets/6c77dbf3-110f-401c-bcab-bc21aea7ac47" />
+      <br>
+      <i>Sign-In Page</i>
+    </td>
+    <td align="center">
+      <img width="400" alt="Dashboard" src="https://github.com/user-attachments/assets/e5467bff-fdf2-4f78-8dfe-6ddd449e7c6e" />
+      <br>
+      <i>Dashboard</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Flashcards_Topics_Page" src="https://github.com/user-attachments/assets/978d9437-f4a6-4189-ac0b-cf75317618b5" />
+      <br>
+      <i>Flashcards Topics Page</i>
+    </td>
+    <td align="center">
+      <img width="400" alt="Custom_Flashcard_Topic_Generator" src="https://github.com/user-attachments/assets/a7008072-f55c-4252-8864-a52d46423779" />
+      <br>
+      <i>Custom Flashcards Generator Page</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Flashcard_Front_English" src="https://github.com/user-attachments/assets/1fc9ed88-7acc-4e5d-a90d-d353cf06c125" />
+      <br>
+      <i>Flashcard Front - English</i>
+    </td>
+    <td align="center">
+      <img width="400" alt="Flashcard_Back_Welsh" src="https://github.com/user-attachments/assets/d8c71fbd-0165-4052-8600-8e17bdf321ba" />
+      <br>
+      <i>Flashcard Back - Welsh</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img width="400" alt="Pronunciation_Tutor" src="https://github.com/user-attachments/assets/c98af1e7-ae65-4e5b-8b70-9ded08fcd7f1" />
+      <br>
+      <i>Pronunciation Tutor</i>
+    </td>
+    <td align="center">
+      <img width="400" alt="AI_Welsh_Tutor" src="https://github.com/user-attachments/assets/bedbaace-3001-4aca-9d7d-bc7b41a8b1ef" />
+      <br>
+      <i>AI Welsh Tutor Chat</i>
+    </td>
+  </tr>
+</table>
+<hr>
 <div align="center">
   <a href="https://linkedin.com/in/rakshit-rangarajan-2084b2211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rakshitr2000@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
