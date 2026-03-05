@@ -137,6 +137,9 @@ Use the following account to log in and explore the application:
 * **Password:** `password`
 <a href="https://saycymraeg.rakshitr.co.in" target="_blank">
   <img src="https://img.shields.io/badge/Live%20Demo-SayCymraeg-%2300AD43?style=for-the-badge&logo=vercel&logoColor=white" alt="SayCymraeg Demo" />
+</a> &emsp;
+<a href="https://api.rakshitr.co.in/saycymraeg/api/docs" target="_blank">
+  <img src="https://img.shields.io/badge/Swagger%20Link-SayCymraeg-%2300AD43?style=for-the-badge&logo=vercel&logoColor=white" alt="SayCymraeg Swagger Link" />
 </a>
 
 <hr>
