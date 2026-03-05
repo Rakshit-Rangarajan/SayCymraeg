@@ -9,11 +9,12 @@
 <hr>
 
 ## 📖 Overview and My Experience
- 
+<div align="justify">
 SayCymraeg is an interactive and gamified web application designed to help users learn the Welsh language. The platform provides a modern, engaging learning experience through a variety of tools, including dynamic flashcards, challenging quizzes, and AI-powered features. It also includes social elements like a chat and competitive leaderboard.
 What started as a small hobby project for exploring the use of Language Models locally led me to develop an entire project with great features that would help and motivate people to learn new languages. This project proved to be very interesting eventhough I spent many sleep-less hours trying to understand how each and everything works. I tried a lot of permutation and combinations to fix errors and finally took me over a month to stop adding stuff to my never-ending list of features that I had planned for "SayCymraeg".
 This project helped me learn new tech stacks like Next.js, Flask and Ollama while also allowing me the opportunity to explore further in familiar paths like python and firebase. 
 Each and every set of code in this project has left a unique mark on me and I throughly enjoyed playing with the code.
+</div>
 
 ---
 
