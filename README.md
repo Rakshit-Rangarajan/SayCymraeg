@@ -131,8 +131,11 @@ Use the following account to log in and explore the application:
 
 * **Email:** `test@test.com`
 * **Password:** `password`
+<a href="https://saycymraeg.rakshitr.co.in" target="_blank">
+  <img src="https://img.shields.io/badge/Live%20Demo-SayCymraeg-%2300AD43?style=for-the-badge&logo=vercel&logoColor=white" alt="SayCymraeg Demo" />
+</a>
 
----
+<hr>
 
 ## 📂 Project Structure
 
